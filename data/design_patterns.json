@@ -1,0 +1,116 @@
+{
+  "dessign_patterns": [
+    {
+      "id": 1,
+      "clasification": "Creational patterns",
+      "name": "Factory method",
+      "image": "/home/kali/Desktop/hola/js/designPatterns_JavaPython_node/images/java.png"
+    },
+    {
+      "id": 2,
+      "clasification": "Creational patterns",
+      "name": "Abstract factory"
+    },
+    {
+      "id": 3,
+      "clasification": "Creational patterns",
+      "name": "Builder"
+    },
+    {
+      "id": 4,
+      "clasification": "Creational patterns",
+      "name": "Prototype"
+    },
+    {
+      "id": 5,
+      "clasification": "Creational patterns",
+      "name": "Singleton"
+    },
+    {
+      "id": 6,
+      "clasification": "Structural patterns",
+      "name": "Adapter"
+    },
+    {
+      "id": 7,
+      "clasification": "Structural patterns",
+      "name": "Bridge"
+    },
+    {
+      "id": 8,
+      "clasification": "Structural patterns",
+      "name": "Compositer"
+    },
+    {
+      "id": 9,
+      "clasification": "Structural patterns",
+      "name": "Decorator"
+    },
+    {
+      "id": 10,
+      "clasification": "Structural patterns",
+      "name": "Facade"
+    },
+    {
+      "id": 11,
+      "clasification": "Structural patterns",
+      "name": "Flyweight"
+    },
+    {
+      "id": 12,
+      "clasification": "Structural patterns",
+      "name": "Proxy"
+    },
+    {
+      "id": 13,
+      "clasification": "Behavioral patterns",
+      "name": "Chain of responsability"
+    },
+    {
+      "id": 14,
+      "clasification": "Behavioral patterns",
+      "name": "Command"
+    },
+    {
+      "id": 15,
+      "clasification": "Behavioral patterns",
+      "name": "Iterator"
+    },
+    {
+      "id": 16,
+      "clasification": "Behavioral patterns",
+      "name": "Mediator"
+    },
+    {
+      "id": 17,
+      "clasification": "Behavioral patterns",
+      "name": "Observer"
+    },
+    {
+      "id": 18,
+      "clasification": "Behavioral patterns",
+      "name": "State"
+    },
+    {
+      "id": 19,
+      "clasification": "Behavioral patterns",
+      "name": "Strategy"
+    },
+    {
+      "id": 20,
+      "clasification": "Behavioral patterns",
+      "name": "Memento"
+    },
+    {
+      "id": 21,
+      "clasification": "Behavioral patterns",
+      "name": "Template Method"
+    },
+    {
+      "id": 22,
+      "clasification": "Behavioral patterns",
+      "name": "Visitor"
+    }
+    
+  ]
+}
